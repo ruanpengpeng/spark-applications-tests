@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="mysql_sparksql_hbase" />
         <module name="spark.hbase.local.test" />
       </profile>
     </annotationProcessing>
